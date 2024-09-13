@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.links-list {
+  min-height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.link-item {
+  margin: 10px;
+  margin-right: 20px;
+}
